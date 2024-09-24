@@ -1,10 +1,14 @@
 package main
 
-import (
-	"fmt"
+const AZE = "Azerbaijan"
+
+const (
+	a = iota * 2
+	b
+	c
+	d
 )
 
 func main() {
-	fmt.Println("Hello and welcome")
 
 }
