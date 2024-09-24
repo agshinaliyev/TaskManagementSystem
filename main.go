@@ -1,14 +1,12 @@
 package main
 
-const AZE = "Azerbaijan"
+import (fmt)
 
-const (
-	a = iota * 2
-	b
-	c
-	d
-)
 
-func main() {
+func main() 
+{
+	fmt.Println(" to the Task Management System")
+	fmt.Println("Project start date is: 2024-09-18 00:00:00")
+	fmt.Println("Task Management System")
 
 }
