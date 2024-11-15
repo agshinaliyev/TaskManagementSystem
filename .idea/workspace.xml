@@ -5,14 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0865e380-d789-423e-873c-138bf58b270a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/TaskManagementSystem.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/TaskManagementSystem/session-8/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TaskManagementSystem" beforeDir="false" afterPath="$PROJECT_DIR$/TaskManagementSystem" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TaskManagementSystem/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/TaskManagementSystem/session-7/go.mod" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TaskManagementSystem/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/TaskManagementSystem/session-7/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +44,7 @@
     &quot;Go Build.go build TaskManagementSystem.executor&quot;: &quot;Run&quot;,
     &quot;Go Build.go build channel.go.executor&quot;: &quot;Run&quot;,
     &quot;Go Build.go build session-8/TaskManagementSystem/session-8.executor&quot;: &quot;Run&quot;,
+    &quot;Go Build.go build session-9/tasks.executor&quot;: &quot;Run&quot;,
     &quot;Go Build.go build test.go.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
@@ -63,22 +62,24 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Agshin Aliyev\GolandProjects\ms-TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\session-9" />
+      <recent name="C:\Users\Agshin Aliyev\GolandProjects\ms-TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\session-8" />
       <recent name="C:\Users\Agshin Aliyev\GolandProjects\ms-TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\session-7" />
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="go build session-8/TaskManagementSystem/session-8" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build session-9/tasks" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="TaskManagementSystem" />
-      <working_directory value="$PROJECT_DIR$" />
+      <working_directory value="$PROJECT_DIR$/TaskManagementSystem/session-9" />
       <kind value="PACKAGE" />
-      <package value="session-8/TaskManagementSystem/session-8" />
+      <package value="session-9/tasks" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/TaskManagementSystem/session-8/main.go" />
+      <filePath value="$PROJECT_DIR$/TaskManagementSystem/session-9/tasks/main.go" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build session-8/TaskManagementSystem/session-8" />
+        <item itemvalue="Go Build.go build session-9/tasks" />
       </list>
     </recent_temporary>
   </component>
